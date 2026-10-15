@@ -1,4 +1,6 @@
-Device
+大航海时代2 中文版 APK
+
+Device 
 - Android 7.0 (API 24) or newer.
 - Android System WebView. The game runs inside the phone's built-in browser engine (WebView), using WebAssembly. Any WebView updated in the last several years works. If the game shows a black screen or an error, update "Android System WebView" (or Chrome) from the app store.
 - Any CPU type (ARM or x86). The APK contains no native code, so it isn't tied to one architecture.
